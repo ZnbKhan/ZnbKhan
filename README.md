@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZnbKhan
-- 👀 I’m interested in making website interactive.
+- 👀 I’m interested in exploring Technology.
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at LinkedIn https://www.linkedin.com/in/zainab-khan-308a76191
