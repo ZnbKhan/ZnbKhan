@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZnbKhan
-- 👀 I’m interested in exploring Technology.
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Exploring Technology.
+- 🌱 I’m currently learning Data Structure & Algorithm.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at LinkedIn https://www.linkedin.com/in/zainab-khan-308a76191
 
